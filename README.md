@@ -1,6 +1,7 @@
 # Better colors for default implementation of Firefox groups
 
 ![stylesheet preview](/image.png)
+
 This repository contains just a `userChrome.css` file that overwrites some Firefox variables to make groups look better with dark/black themes.
 
 Changes in my own stylesheet (that sits in repository under `./userChrome.css`) only affect `--tab-group-color-{NAME}-pale` to make the background darker than the text, instead of eye-blasting white.
